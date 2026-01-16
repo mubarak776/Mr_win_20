@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr win09 - লগইন ও রেজিস্ট্রেশন</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #1a1a1a; color: white; text-align: center; }
+        .container { max-width: 400px; margin: 50px auto; padding: 20px; background: #2c2c2c; border-radius: 10px; }
+        input { width: 90%; padding: 10px; margin: 10px 0; border-radius: 5px; border: none; }
+        .btn { background-color: #ffcc00; color: black; padding: 10px 20px; border: none; cursor: pointer; font-weight: bold; }
+        .help-link { color: #0088cc; text-decoration: none; margin-top: 20px; display: block; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Mr win09</h2>
+    <p>অ্যাকাউন্ট তৈরি করুন</p>
+    <input type="text" placeholder="ইউজার নেম">
+    <input type="password" placeholder="পাসওয়ার্ড">
+    <input type="text" placeholder="ইনভাইটেশন কোড (ঐচ্ছিক)">
+    <button class="btn">রেজিস্ট্রেশন করুন</button>
+    
+    <hr>
+    
+    <div style="text-align: left; padding: 10px;">
+        <h4>ডিপোজিট তথ্য:</h4>
+        <p>🟠 নগদ: 01863796311 (Personal)</p>
+        <p>💗 বিকাশ: 01873046713 (Personal)</p>
+        <small>*টাকা পাঠানোর পর ট্রানজেকশন আইডি সেভ রাখুন।</small>
+    </div>
+
+    <a href="https://t.me/Mr_Mubarak_247" class="help-link">হেল্প সেন্টার: t.me/Mr_Mubarak_247</a>
+</div>
+
+</body>
+</html>
